@@ -1,5 +1,5 @@
 # androidMVCdemo
-Demo for How to use Android MVC in android in Java language
+Demo for How to use MVC architecture pattern in android using Java language
 
 [1] **Model** is the model class  
 [2] **View** is the view that display data like editText,textView,listView   
